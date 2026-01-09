@@ -1,8 +1,14 @@
+# Python
 __pycache__/
 *.pyc
-.DS_Store
-db.sqlite3
-venv/
 
+# Environment
 .env
 .env.*
+
+# System
+.DS_Store
+
+# Virtual env & DB
+venv/
+db.sqlite3
